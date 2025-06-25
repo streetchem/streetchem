@@ -12,5 +12,11 @@
 </p>
 
 <p align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31bdxgkzl75liiciz4uqecugy534&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=d9b516&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=streetchem-username&color=d3962f&style=plastic&label=🍂&abreviated=true">
 </p>
